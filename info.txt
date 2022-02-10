@@ -2,3 +2,57 @@ CS 102 Github Tutorial – Spring 2022
 
 Onur Tanınmış - 22003312 - https://github.com/onurtaninmis
 Favorite Game: Gartic Phone
+
+commit f39ff857b4f6a04d2ca7087b63ba8f6423454387 (HEAD -> main, origin/main, origin/HEAD)
+Merge: ea391d1 7dc15a9
+Author: Onur Tanınmış <72657826+onurtaninmis@users.noreply.github.com>
+Date:   Thu Feb 10 11:08:40 2022 +0300
+
+    Merge pull request #1 from onurtaninmis/newbranch
+
+    pull request to new_information
+
+:...skipping...
+commit f39ff857b4f6a04d2ca7087b63ba8f6423454387 (HEAD -> main, origin/main, origin/HEAD)
+Merge: ea391d1 7dc15a9
+Author: Onur Tanınmış <72657826+onurtaninmis@users.noreply.github.com>
+Date:   Thu Feb 10 11:08:40 2022 +0300
+
+    Merge pull request #1 from onurtaninmis/newbranch
+    
+    pull request to new_information
+
+commit 7dc15a93b83203b28ad7cccf3199358e700935e6 (origin/newbranch, new_information)
+Author: onur <onur.taninmis@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 11:06:16 2022 +0300
+
+    game addition
+    
+    i wrote my favorite game
+
+commit a9273f7c1d2780c896a188aede697deda127196e
+Merge: 76ce391 ea391d1
+Author: onur <onur.taninmis@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:59:42 2022 +0300
+
+    Merge remote-tracking branch 'origin/newbranch' into newbranch
+
+commit 76ce39135ca1bbde7e54aba437ba5c5fa987fc51
+Author: Onur Tanınmış <72657826+onurtaninmis@users.noreply.github.com>
+Date:   Thu Feb 10 10:53:31 2022 +0300
+
+    Add files via upload
+    
+    onurtaninmis updated info.txt
+
+commit ea391d1f97fc6a874de2d89dc3dd97dc83bc2bde
+Author: Onur Tanınmış <72657826+onurtaninmis@users.noreply.github.com>
+Date:   Thu Feb 10 10:53:31 2022 +0300
+
+    Add files via upload
+
+commit b33d2a4503929a3b73836b4a9efaeea60edcaaca
+Author: Onur Tanınmış <72657826+onurtaninmis@users.noreply.github.com>
+Date:   Thu Feb 10 10:41:22 2022 +0300
+
+:
